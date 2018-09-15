@@ -10,4 +10,9 @@ git init
 git remote add origin https://github.com/用户名/项目名.git
 ···
 
-3、
+## 拉取远程代码
+···
+点击拉取
+···
+
+## 
