@@ -17,8 +17,8 @@ git pull rebase origin master
 
 4. 提交至远程仓库
 ```
-git add .               // 提交全部
-git commit "提交备注"    // 必须是双引号
+git add .                   // 提交全部
+git commit "提交备注"        // 必须是双引号
 git push origin master      // 把本地库的内容推送到远程
 ```
 
@@ -31,10 +31,10 @@ git push origin master -f
 # 把远程代码更新下来
 git pull origin master 
 
-# Accept Current Change	    // 使用当前代码
-# Accept Incoming Change	// 使用最新仓库代码
-# Accept Both Change	    // 两者都要
-# Compare Change		    // 对比改变
+# Accept Current Change         // 使用当前代码
+# Accept Incoming Change        // 使用最新仓库代码
+# Accept Both Change            // 两者都要
+# Compare Change                // 对比改变
 
 # 改完之后 重新强制提交 -f
 git add .
