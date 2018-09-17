@@ -1,4 +1,5 @@
 # Editconfig文件代码格式统一
+[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ```
 # 创建.editconfig 文件 editconfig写法
@@ -11,6 +12,7 @@ end_of_line = lf                        # 设置换行符, 值为lf cr 和 crlf
 insert_final_newline = true             # 设为true表示使文件以空白行结尾
 trim_trailing_whitespace = true         # 是否将行尾空格自动删除
 ```
-CR：Carriage Return，对应ASCII中转义字符\r，表示回车
-LF：Linefeed，对应ASCII中转义字符\n，表示换行
-CRLF：Carriage Return & Linefeed，\r\n，表示回车并换行
+> CR：Carriage Return，对应ASCII中转义字符\r，表示回车
+> LF：Linefeed，对应ASCII中转义字符\n，表示换行
+> CRLF：Carriage Return & Linefeed，\r\n，表示回车并换行
+
