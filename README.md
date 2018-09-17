@@ -7,5 +7,3 @@
 #### Vscode配置.md              https://github.com/luzhanx/doc/blob/master/Vscode配置.md
 
 #### 开源在线 Markdown 编辑器    https://pandao.github.io/editor.md/index.html
-
-https://github.com/luzhanx/doc/blob/master/Vscode配置.md
