@@ -38,3 +38,9 @@
 > 自动填充文件名
 
 ![](./img/Vscode配置/PathIntellisense.gif)
+
+### [vscode weapp api](https://marketplace.visualstudio.com/items?itemName=coderfee.vscode-weapp-api)
+> 微信小程序 API 代码片段
+
+### [vscode wxml](https://marketplace.visualstudio.com/items?itemName=coderfee.vscode-wxml)
+> 为VSCode提供wxml语法支持及代码片段
