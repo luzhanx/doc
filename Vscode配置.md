@@ -1,20 +1,14 @@
 # Vscode配置
 
-### [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify "Beautify")
-> 格式化CSS, Sass，JSON文件
+### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+> 这是我用的Vscode皮肤
 
-```javascript
-// less语法要自己添加
-// 文件-> 首选项-> 设置    
-// 搜索 beautify.language 点左边编辑 在右边css下面添加less就可以格式化less
-  "beautify.language": {
-    "css": [
-      "css",
-      "scss",
-	  "less"
-    ],
-  },
-```
+### [Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+> VS Code 的中文（简体）语言包
+>安装后，在 locale.json 中添加 "locale": "zh-cn"，即可载入中文（简体）语言包。要修改 locale.json，你可以同时按下 Ctrl+Shift+P 打开命令面板，之后输入 "config" 筛选可用命令列表，最后选择配置语言命令。请参阅文档并获取更多信息。
+
+### [Prettier Now](https://marketplace.visualstudio.com/items?itemName=remimarsal.prettier-now)
+> 格式化CSS, Sass，Less  Jsx 等等
 
 ### [auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag "auto Rename Tag")
 > 自动重命名配对HTML标签
